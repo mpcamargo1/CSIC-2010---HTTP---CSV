@@ -1,2 +1,4 @@
 # HTTP-CSIC-2010
-Algoritmo desenvolvido para o desenvolvimento do artigo 'A Intrusion Detection System for Web-Based Attacks Using IBM Watson'
+- Algoritmo desenvolvido para o desenvolvimento do artigo 'A Intrusion Detection System for Web-Based Attacks Using IBM Watson'
+# Abstract
+- The internet and web applications have been growing steadily and together with the increasing number of cyber attacks. These attacks are carried out through requests that are considered normal or abnormal (attack requests). Therefore, an intrusion attack can be considered as a classification problem. Machine learning algorithms are used as a way to train models to classify these requests in order to increase the security of web systems. The data used to carry out the training and tests in this work come from the CSIC 2010 dataset. The J48, Naive Bayes, OneR, Random Forest and IBM Watson LGBM algorithms were tested. The metrics used were t-rate, precision, recall and f measure. The results showed that the algorithm used by the Watson tool (LGBM) was the one that did the best in all metrics when compared to the other algorithms in the literature.
